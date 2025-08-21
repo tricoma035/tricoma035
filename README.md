@@ -1,8 +1,3 @@
-<!-- Banner principal personalizado -->
-<p align="center">
-  <img src="https://via.placeholder.com/900x200?text=Bienvenido+a+mi+Perfil+de+GitHub" alt="Tricoma035" />
-</p>
-
 <!-- Animación de título -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hola,+soy+Javi+%F0%9F%91%8B;Full+Stack+Developer;Apasionado+por+la+IA+%F0%9F%A4%96;Automatizando+el+mundo!" alt="Typing SVG" />
