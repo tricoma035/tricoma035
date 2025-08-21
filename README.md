@@ -3,16 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hola,+soy+Javi+%F0%9F%91%8B;Full+Stack+Developer;Apasionado+por+la+IA+%F0%9F%A4%96;Automatizando+el+mundo!" alt="Typing SVG" />
 </h1>
 
-<!-- Badge de Open to Work -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-%E2%9C%94-green?style=for-the-badge" />
-</p>
-
-<!-- GIF animado -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
 <!-- Contador de visitas -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tricoma035&label=Profile%20views&color=00F7FF&style=flat" alt="Profile Views" />
@@ -29,25 +19,11 @@
 
 ---
 
-## 🛠 **Stack Tecnológico**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,python,git,docker,linux" />
-</p>
-
-<!-- GIF del stack -->
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
-</p>
-
----
-
 ## 🌟 **Proyectos Destacados**
 <p align="center">
   <a href="https://github.com/tricoma035/web-agente-ia.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tricoma035&repo=Proyecto-1&theme=radical" />
   </a>
-  <a href="https://github.com/tricoma035/prompt-market.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tricoma035&repo=Proyecto-2&theme=radical" />
+  <a href="https://github.com/tricoma035/prompt-market.git"> 
   </a>
 </p>
 
