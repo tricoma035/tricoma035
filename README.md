@@ -1,11 +1,11 @@
 <!-- Banner principal personalizado -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x200?text=Bienvenido+a+mi+Perfil+de+GitHub" alt="Banner Constructor" />
+  <img src="https://via.placeholder.com/900x200?text=Bienvenido+a+mi+Perfil+de+GitHub" alt="Tricoma035" />
 </p>
 
 <!-- Animación de título -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hola,+soy+Constructor+%F0%9F%91%8B;Full+Stack+Developer;Apasionado+por+la+IA+%F0%9F%A4%96;Automatizando+el+mundo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hola,+soy+Javi+%F0%9F%91%8B;Full+Stack+Developer;Apasionado+por+la+IA+%F0%9F%A4%96;Automatizando+el+mundo!" alt="Typing SVG" />
 </h1>
 
 <!-- Badge de Open to Work -->
@@ -48,10 +48,10 @@
 
 ## 🌟 **Proyectos Destacados**
 <p align="center">
-  <a href="https://github.com/tricoma035/Proyecto-1">
+  <a href="https://github.com/tricoma035/web-agente-ia.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tricoma035&repo=Proyecto-1&theme=radical" />
   </a>
-  <a href="https://github.com/tricoma035/Proyecto-2">
+  <a href="https://github.com/tricoma035/prompt-market.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tricoma035&repo=Proyecto-2&theme=radical" />
   </a>
 </p>
@@ -89,7 +89,7 @@
 
 ## 🌐 **Sígueme en Instagram**
 <p align="center">
-  <a href="https://instagram.com/tricoma035" target="_blank">
+  <a href="https://instagram.com/xavi.dev.ai?igsh=ZjZ5eHcyZTh4ZnMz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
