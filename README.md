@@ -19,16 +19,6 @@
 
 ---
 
-## 🌟 **Proyectos Destacados**
-<p align="center">
-  <a href="https://github.com/tricoma035/web-agente-ia.git">
-  </a>
-  <a href="https://github.com/tricoma035/prompt-market.git"> 
-  </a>
-</p>
-
----
-
 ## 📊 **Estadísticas**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tricoma035&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -67,5 +57,5 @@
 
 ---
 
-⭐ **Hecho con ❤️ por [Constructor](https://github.com/tricoma035)**
+⭐ **Hecho con ❤️ por [Javi](https://github.com/tricoma035)**
 
