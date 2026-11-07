@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="230" viewBox="0 0 800 230" role="img" aria-labelledby="title desc">
+  <title id="title">Hola, soy Javi</title>
+  <desc id="desc">Desarrollo full stack. Inteligencia artificial y automatización.</desc>
+  <style>
+    .background { fill: #f0f9ff; }
+    .heading { fill: #0f172a; }
+    .subtitle { fill: #475569; }
+    .accent { fill: #0e7490; }
+    .line { stroke: #0891b2; stroke-opacity: .25; }
+    .cursor { animation: blink 1.2s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-color-scheme: dark) {
+      .background { fill: #0d1117; }
+      .heading { fill: #f0f6fc; }
+      .subtitle { fill: #b1bac4; }
+      .accent { fill: #22d3ee; }
+      .line { stroke: #22d3ee; }
+    }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <rect class="background" width="800" height="230" rx="20" />
+  <path class="line" d="M40 191H760" />
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" text-anchor="middle">
+    <text class="accent" x="400" y="49" font-size="12" letter-spacing="4">CÓDIGO · IA · AUTOMATIZACIÓN</text>
+    <text class="heading" x="390" y="117" font-size="46" font-weight="700">Hola, soy Javi<tspan class="accent cursor">_</tspan></text>
+    <text class="subtitle" x="400" y="155" font-size="17">Desarrollo full stack con curiosidad por lo que viene.</text>
+    <text class="accent" x="400" y="216" font-size="11" letter-spacing="3">NUSAKA / DEVELOPER PROFILE</text>
+  </g>
+</svg>
