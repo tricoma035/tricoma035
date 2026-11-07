@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="800" alt="Soy Xavi. Desarrollo full stack y soluciones blockchain." />
+  <img src="assets/intro.svg" width="800" alt="Soy Xavi. Desarrollo full stack y soluciones blockchain." />
 </p>
 
 <p align="center">
