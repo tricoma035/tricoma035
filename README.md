@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://portfolio-nusaka.vercel.app/">
-    <img src="assets/header.svg" width="800" alt="NusaKa · Soy Xavi. Desarrollo full stack y soluciones blockchain." />
-  </a>
+  <img src="assets/header.svg" width="800" alt="Soy Xavi. Desarrollo full stack y soluciones blockchain." />
 </p>
 
 <p align="center">
@@ -57,4 +55,10 @@ Mi enfoque une **diseño, desarrollo y SEO** con un **CRM y un panel de gestión
 
 <p align="center">
   <em>Que lo que hoy imaginas encuentre mañana su lugar en el mundo.</em>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-nusaka.vercel.app/">
+    <img src="assets/footer-logo.svg" width="800" alt="NusaKa · Portfolio de Xavi" />
+  </a>
 </p>
